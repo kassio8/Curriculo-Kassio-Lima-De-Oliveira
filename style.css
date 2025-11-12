@@ -1,91 +1,54 @@
-/* Zerar margens padrão do navegador */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
-  font-family: "Segoe UI", Arial, sans-serif;
-  background-color: #faf9f7;
-  color: #222;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fdfcfb;
+  color: #333;
+  margin: 40px;
+  line-height: 1.6;
 }
 
-/* Linha gradiente superior */
-.top-line {
-  width: 100%;
-  height: 10px;
-  background: linear-gradient(to right, #d1a377, #e4b97f, #f1d9a9);
-  border-bottom: 1px solid #e2d6c3;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-}
-
-/* Estrutura principal */
-.container {
-  max-width: 850px;
-  margin: 40px auto;
-  background: #fff;
-  padding: 40px 50px;
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-}
-
-/* Cabeçalho */
 header {
   text-align: center;
-  border-bottom: 3px solid #e3ba8b;
-  padding-bottom: 15px;
-  margin-bottom: 30px;
-}
-
-header h1 {
-  font-size: 2em;
-  letter-spacing: 0.5px;
-  color: #2b2b2b;
-}
-
-header p {
-  margin: 5px 0;
-  color: #555;
-  font-size: 15px;
-}
-
-/* Seções */
-.section {
   margin-bottom: 25px;
 }
 
+h1 {
+  font-size: 28px;
+  color: #444;
+  margin-bottom: 5px;
+}
+
 h2 {
-  color: #b67847;
-  border-left: 5px solid #deb27a;
-  padding-left: 10px;
-  margin-bottom: 10px;
-  font-size: 1.2em;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+  color: #444;
+  font-size: 20px;
+  margin-bottom: 8px;
 }
 
-/* Texto e listas */
+p, li {
+  font-size: 15px;
+}
+
 ul {
-  padding-left: 20px;
+  list-style: none;
+  padding-left: 0;
 }
 
-li {
+ul li {
   margin-bottom: 6px;
 }
 
-.sub {
-  color: #666;
-  font-size: 14px;
-  font-style: italic;
+.section-line {
+  border: none;
+  height: 4px;
+  background: linear-gradient(to right, #f8c58a, #f6d4a4, #f3e0b7);
+  margin: 25px 0;
+  border-radius: 2px;
 }
 
-/* Rodapé */
-footer {
-  text-align: center;
-  margin-top: 40px;
-  color: #888;
-  font-size: 13px;
-  border-top: 2px solid #e6d7c3;
-  padding-top: 10px;
+a {
+  color: #c47b2d;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
