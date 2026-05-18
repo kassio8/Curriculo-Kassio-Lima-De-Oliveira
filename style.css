@@ -50,6 +50,17 @@ header p {
   font-size: 15px;
 }
 
+header a {
+  text-decoration: none;
+  color: #3b82f6;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+header a:hover {
+  color: #2563eb;
+}
+
 /* Seções */
 .section {
   margin-bottom: 25px;
@@ -88,4 +99,28 @@ footer {
   font-size: 13px;
   border-top: 2px solid #e6d7c3;
   padding-top: 10px;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .container {
+    margin: 20px;
+    padding: 25px;
+  }
+
+  header h1 {
+    font-size: 1.6em;
+  }
+
+  header p {
+    font-size: 14px;
+  }
+
+  h2 {
+    font-size: 1em;
+  }
+
+  body {
+    font-size: 14px;
+  }
 }
