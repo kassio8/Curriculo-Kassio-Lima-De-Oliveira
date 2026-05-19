@@ -4,7 +4,7 @@
 
 ## 👤 Sobre Mim
 
-Sou um profissional em busca de oportunidades de crescimento na área de **Tecnologia da Informação**. Possuo formação técnica em Montagem e Manutenção de Computadores e estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho experiência em suporte técnico e interesse por novas tecnologias.
+Sou um estudante em busca de oportunidades de crescimento na área de **Tecnologia da Informação**. Possuo formação técnica em Montagem e Manutenção de Computadores e estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho experiência em suporte técnico e interesse por novas tecnologias.
 
 - **Idade:** 18 anos
 - **Localização:** Pernambuco, Brasil
