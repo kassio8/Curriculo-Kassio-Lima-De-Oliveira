@@ -79,7 +79,7 @@ Acesse a versão publicada do currículo:
 ├── index.html  # Página do currículo
 ├── style.css   # Estilos e responsividade
 ├── script.js   # Comportamentos da página
-└── README.md   # Documentação do projeto
+└── README.md   # Documentação do currículo
 ```
 
 ## Tecnologias do projeto
