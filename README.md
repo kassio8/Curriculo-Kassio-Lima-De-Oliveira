@@ -1,87 +1,93 @@
-# Currículo - Kássio Lima de Oliveira
+# Currículo | Kássio Lima de Oliveira
 
-> Um currículo interativo e moderno desenvolvido com HTML, CSS e JavaScript
+Currículo online de **Kássio Lima de Oliveira**, estudante de Análise e Desenvolvimento de Sistemas com experiência em suporte técnico, redes, infraestrutura e dados.
 
-## 👤 Sobre Mim
+## Perfil profissional
 
-Sou um estudante em busca de oportunidades de crescimento na área de **Tecnologia da Informação**. Possuo formação técnica em Montagem e Manutenção de Computadores e estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho experiência em suporte técnico e interesse por novas tecnologias.
+Profissional em formação na área de Tecnologia da Informação, com experiência em atendimento a usuários, manutenção de equipamentos, instalação de softwares, suporte a sistemas internos e análise de incidentes de rede. Possui interesse em infraestrutura, conectividade, segurança da informação e desenvolvimento contínuo.
 
-- **Idade:** 18 anos
+## Informações de contato
+
 - **Localização:** Pernambuco, Brasil
-- **Telefone:** (81) 99383-4313
-- **Email:** kassiolimaoliveira10@gmail.com
+- **Telefone:** [(81) 99383-4313](tel:+5581993834313)
+- **E-mail:** [kassiolimaoliveira10@gmail.com](mailto:kassiolimaoliveira10@gmail.com)
 - **LinkedIn:** [Kássio Lima](https://www.linkedin.com/in/kássio-lima-156892330)
+- **GitHub:** [kassio8](https://github.com/kassio8)
 
-## 🎯 Objetivo
+## Objetivo profissional
 
-Buscar uma oportunidade de crescimento profissional, aplicando meus conhecimentos e habilidades em TI, contribuindo para o sucesso da empresa e meu desenvolvimento contínuo.
+Atuar na área de Tecnologia da Informação, aplicando conhecimentos em suporte técnico, desenvolvimento, infraestrutura, redes e segurança da informação. Busco contribuir para soluções eficientes enquanto amplio minha experiência prática e evolução profissional.
 
-## 📚 Formação
+## Experiência profissional
 
-- **Curso de Montagem e Manutenção de Computadores / Redes de Computadores / Programação** – Senac ✅ Concluído
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Senac (2/5 semestres)
+### Estagiário de Redes e Dados — Vectra Tecnologia
 
-## 💼 Experiência Profissional
+**Período:** agosto de 2026 — atual
 
-**Estagiário de Suporte Técnico – EGAPE**
-- Período: Junho de 2025 até o presente momento
-- Apoio técnico a usuários e manutenção de equipamentos
-- Instalação de softwares e suporte a sistemas internos
-- Atendimento e resolução de problemas técnicos em ambiente corporativo
+**Projeto:** PE-Conectado
 
-## 🏆 Qualificações e Certificações
+- Atendimento a chamados relacionados à rede PE-Conectado em todo o estado.
+- Atuação no setor de dados, em nível N2, com análise e resolução de incidentes de infraestrutura e conectividade.
+- Monitoramento de redes externas quando necessário.
+- Identificação de falhas, avaliação de desempenho e apoio à estabilidade e continuidade dos serviços.
 
-- 🔒 Certificação em Segurança da Informação – **Cisco**
-- 📊 Microsoft Word e Excel (nível básico)
-- 🛡️ Práticas e políticas de segurança da informação
-- 🌐 Instalação e configuração de redes locais (LAN)
-- 🖥️ Windows 10, Windows Server, Linux
-- ⚙️ Noções em hardware e suporte técnico
+### Estagiário de Suporte Técnico — EGAPE
 
-## 🎓 Habilidades e Competências
+**Período:** junho de 2025 — agosto de 2026
 
-- Comunicação oral e escrita
-- Facilidade de aprendizado e rápida adaptação
-- Trabalho em equipe e comprometimento profissional
-- Proatividade e interesse por novas tecnologias
-- Organização e atenção aos detalhes
+- Suporte técnico a usuários em ambiente corporativo.
+- Manutenção de equipamentos e instalação de softwares.
+- Suporte a sistemas internos.
+- Atendimento e resolução de problemas técnicos.
 
-## 🚀 Tecnologias Utilizadas
+## Formação acadêmica
 
-- **HTML5** - Estrutura semântica
-- **CSS3** - Design responsivo e estilização avançada
-- **JavaScript** - Interatividade e automação de ano
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Senac, cursando o 3º período.
+- **Curso de Montagem e Manutenção de Computadores, Redes de Computadores e Programação** — Senac, concluído.
 
-## 📱 Visualizar Currículo
+## Qualificações e conhecimentos
 
-[**Acesse meu currículo aqui →**](https://kassio8.github.io/Curriculo-Kassio-Lima-De-Oliveira/)
+- Certificação em Redes e Segurança da Informação — Cisco.
+- Práticas e políticas de segurança da informação.
+- Instalação e configuração de redes locais (LAN).
+- Sistemas operacionais Windows 10, Windows Server e Linux.
+- Microsoft Word e Excel em nível básico.
+- Noções de hardware e suporte técnico.
 
-## 📁 Estrutura do Projeto
+## Tecnologias
 
-```
+HTML, CSS, JavaScript, Python, Linux, Windows Server, redes de computadores e Pacote Office.
+
+## Competências
+
+- Comunicação oral e escrita.
+- Facilidade de aprendizado e rápida adaptação.
+- Trabalho em equipe e comprometimento profissional.
+- Proatividade e interesse por novas tecnologias.
+- Organização e atenção aos detalhes.
+
+## Visualização
+
+Acesse a versão publicada do currículo:
+
+[**Currículo online**](https://kassio8.github.io/Curriculo-Kassio-Lima-De-Oliveira/)
+
+## Estrutura do projeto
+
+```text
 .
-├── index.html        # Página principal do currículo
-├── style.css         # Estilos e design responsivo
-├── script.js         # Lógica interativa
-└── README.md         # Este arquivo
+├── index.html  # Página do currículo
+├── style.css   # Estilos e responsividade
+├── script.js   # Comportamentos da página
+└── README.md   # Documentação do projeto
 ```
 
-## 💡 Destaques do Projeto
+## Tecnologias do projeto
 
-- ✨ Design moderno com linhas gradiente
-- 📱 Layout responsivo e otimizado
-- 🎨 Paleta de cores profissional (tons neutros e dourados)
-- ⚡ Atualização automática do ano no rodapé
-- 🔗 Links diretos para contato (LinkedIn)
+- **HTML5:** estrutura e conteúdo da página.
+- **CSS3:** design responsivo e estilização da página.
+- **JavaScript:** comportamentos complementares da página.
 
-## 📧 Entre em Contato
+## Contato
 
-Estou sempre aberto a novas oportunidades! Sinta-se livre para entrar em contato através de:
-
-- **Email:** kassiolimaoliveira10@gmail.com
-- **Telefone:** (81) 99383-4313
-- **LinkedIn:** [@kássio-lima](https://www.linkedin.com/in/kássio-lima-156892330)
-
----
-
-**© 2026 - Currículo de Kássio Lima de Oliveira**
+Para oportunidades profissionais ou conexões na área de Tecnologia da Informação, entre em contato por [e-mail](mailto:kassiolimaoliveira10@gmail.com), [LinkedIn](https://www.linkedin.com/in/kássio-lima-156892330) ou [GitHub](https://github.com/kassio8).
